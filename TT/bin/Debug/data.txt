@@ -1,0 +1,59 @@
+{
+"orders": [
+{
+"address": "string",
+"addressLevelOneName": "string",
+"addressLevelThreeName": "string",
+"addressLevelTwoName": "string",
+"addresslevelone": "string",
+"addresslevelthree": "string",
+"addressleveltwo": "string",
+"companyId": "string",
+"couponcode": "string",
+"coupondiscount": 0,
+"coupontype": 0,
+"createby": "string",
+"createdDate": 0,
+"customerId": "string",
+"deliverystatus": 0,
+"description": "string",
+"deviceId": "string",
+"discount": 0,
+"discounttotal": 0,
+"email": "string",
+"fullname": "string",
+"id": "string",
+"name": "string",
+"orderItems": [
+{
+"companyId": "string",
+"cooperatorid": 0,
+"createby": "string",
+"createdDate": 0,
+"discounttotal": 0,
+"id": "string",
+"itemId": "string",
+"name": "string",
+"orderId": "string",
+"price": "string",
+"quantity": 0,
+"sellingprice": 0,
+"title": "string",
+"updateby": "string",
+"updatedDate": 0,
+"variantid": "string"
+}
+],
+"paymentstatus": 0,
+"paymenttype": 0,
+"phone": "string",
+"refid": "string",
+"status": 0,
+"subid": 0,
+"total": 0,
+"totalorigin": 0,
+"updateby": "string",
+"updatedDate": 0
+}
+]
+}
